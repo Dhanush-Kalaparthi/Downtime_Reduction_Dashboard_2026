@@ -1,2 +1,5 @@
-# Downtime_Reduction_Dashboard_2026
-McArthur River Zinc Plant | Downtime &amp; Reliability Analytics  A data-driven approach to industrial performance improvement. This project leverages Pareto analysis and financial modeling to identify high-impact failure modes, distinguish between planned and unplanned downtime, and drive real-time decision-making in mineral processing environments.
+I am a Mechanical Engineer based in Melbourne currently completing a Master’s in Engineering Management, focused on reliability, asset performance, and operations within heavy industry environments.
+My background combines mechanical design fundamentals (SolidWorks, AutoCAD) with strong analytical capability in Excel and Python. I am particularly interested in improving asset reliability, reducing downtime, and supporting site-based engineering operations in mining, manufacturing, and infrastructure.
+Through academic projects and internship experience, I have developed structured problem-solving approaches using root cause analysis, preventive maintenance strategies, and data-driven decision making. I am comfortable working cross-functionally with maintenance teams, supervisors, and project stakeholders.
+I am actively seeking graduate or junior roles in Reliability Engineering, Asset Engineering, Operations Engineering, or Site-Based Mechanical Engineering across Australia.
+If your team needs a mechanically strong, analytically disciplined engineer who is ready to work on-site and deliver measurable improvements, I am ready to contribute immediately.
